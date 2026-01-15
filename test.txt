@@ -1,0 +1,12 @@
+nasywa tsaqib
+
+awal inisiasi git 
+1. buat repositori di GitHub 
+2. buat folder project di local computer/laptop
+3. inisiasi git - git init
+4. menambahkan file/project ke folder project
+5. menambahkan perubahan file/project ke git-git add namafile
+6.commit - git commit - m "Pesan Commit" 
+7. tambahkan cabang/branch
+8. hubungkan git local dengan GitHub - git remote add origin alamat git (https://github.com/nasywatsaqib308-beep/BelajarReact.git)
+9. upload file/perubahan ke GitHub/repo online  git push -u origin main
